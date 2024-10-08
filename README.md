@@ -1,4 +1,4 @@
-## Hi there 👋
+# About me
 
 
 **kim-becker/kim-becker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
